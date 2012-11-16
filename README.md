@@ -1,4 +1,4 @@
-Encryption-Lib-For-Java
+Encryption-Lib-For-Java-Android
 =======================
 Dear all,
 
